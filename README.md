@@ -2,7 +2,7 @@
 
 ## Description
 
-HexIP is a tool to convert the /proc/net/tcp file from hexadecimal to decimal, easy and fest.
+HexIP is a tool to convert the /proc/net/tcp file from hexadecimal to decimal, easy and fast.
 
 ## How to install
 
