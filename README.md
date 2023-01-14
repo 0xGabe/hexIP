@@ -1,9 +1,13 @@
 # hexIP
 
+## Description
+
+HexIP is a tool to convert the /proc/net/tcp file from hexadecimal to decimal, easy and fest.
+
 ## How to install
 
-1° clone this repository
-
 ```
-
+git clone https://github.com/0xGabe/hexIP
+cd hexIP
+python3 hexIP list.txt
 ```
